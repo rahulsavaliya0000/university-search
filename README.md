@@ -4,10 +4,16 @@
 A Flutter application to search global universities by country or name.  
 Built with   MVVM architecture  , using   Riverpod   for state management and   GoRouter   for navigation.
 
-I'm also Uploading application here.So you can Simply Install it from there.
 
 A Downlaod Link of Application : 
-     ✨ Overview
+
+I'm also Uploading application here.So you can Simply Install it from there.
+
+here is the path : "university-search/app-release.apk"
+
+If Inside the Apllication ApI does not work or show error then you have to run the code. there is no other Solution Cause the API is HTTP and Our Mobile SSL Block the All HTTP request that is made from Application.
+
+I have Handle the Error For HTTP So there is Less chacne it will happen.
 
 This app allows users to:
 - Browse a list of universities from around the world.
